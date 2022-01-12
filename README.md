@@ -1,5 +1,5 @@
 #  ![waving-hand (1)](https://user-images.githubusercontent.com/47762381/149204039-707d51f3-aefb-4f55-ab3c-dd6ee7c0b61d.png) Hi, my name is Josema Cruz
-### Telecommunication Engineer & Front-end Developer
+### Telecommunication Engineer & Software Developer
 
 ## Skills:
 
