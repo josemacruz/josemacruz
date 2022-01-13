@@ -13,6 +13,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)
 </br>
 ![Docker](https://img.shields.io/badge/Docker-0000FF?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)
+![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-0000FF?style=for-the-badge&logo=apache&logoColor=white&labelColor=101010)
 
 And more...
 
