@@ -5,8 +5,6 @@ Welcome to my GitHub! I'm Josema Cruz, a Telecommunications Engineer and Web Dev
 
 ## About Me:
 
-- 🌐 Portfolio: [josemacruz.dev](https://josemacruz.dev)
-- 📝 Blog: [ttcode.dev](https://ttcode.dev)
 - 📈 [LinkedIn](https://www.linkedin.com/in/josema-cruz/)
 
 ### About Me (Details):
