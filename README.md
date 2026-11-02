@@ -1,29 +1,58 @@
 # ![waving-hand (1)](https://user-images.githubusercontent.com/47762381/149204039-707d51f3-aefb-4f55-ab3c-dd6ee7c0b61d.png) Hi, I'm Josema Cruz
-### Telecommunication Engineer
+### Software Engineer · Product Engineering
 
-Welcome to my GitHub! I'm Josema Cruz, a Telecommunications Engineer and Web Developer. As a frontend developer, I specialize in creating interactive websites and modern web applications. Explore my recent projects and learn more about my skills and experience.
+I'm a Telecommunications Engineer and Software Engineer at Open Digital Services (Santander Group), contributing to Openbank products. I build and evolve digital products across frontend and full-stack engineering, combining product thinking with accessibility, engineering quality, and dependable delivery. I'm deepening my focus on AI and cloud engineering.
 
-## About Me:
+## About Me
 
-- 📈 [LinkedIn](https://www.linkedin.com/in/josema-cruz/)
+- 📍 Andalusia, Spain · Remote
+- 💼 5+ years of software engineering experience
+- 🎓 Telecommunications Engineering, University of Seville
+- 🌐 [Portfolio](https://josemacruz.dev)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/josemacruz/)
 
-### About Me (Details):
+## Experience
 
-I am **Josema Cruz**, a Telecommunications Engineer specialized in Telematics, and passionate about web development. Currently, I work as a Frontend Developer at [Knowmad Mood](https://www.openbank.es/), a subsidiary of Openbank. Here's a glimpse of my professional journey:
+#### Open Digital Services · Software Engineering Analyst (January 2025 - Present)
 
-#### Knowmad Mood (March 2023 - Present)
-- **Title:** Frontend Developer at Openbank
-- **Description:** Experienced in integrating analytics into ReactJS projects and implementing tests with Jest. Dedicated to prioritizing accessibility in design. Proficient in utilizing additional technologies such as Storybook and Cypress.
+- Implemented Openbank Mexico's lending product and took it through to production.
+- Maintain and evolve the Openbank US application, delivering features with each release.
+- Build resources and guardrails for using AI-assisted development tools in day-to-day work.
 
-#### Secmotic S.L. (March 2021 - March 2023)
-- **Title:** Frontend Developer
-- **Description:** Specializing in React.js. Implementation of tests with Jest and React Testing Library. Experience in React-Redux, Bootstrap. Node.js and MongoDB for the backend. Familiar with Fiware, Docker, GitLab CI/CD, and Apache NiFi.
+#### Knowmad Mood · Software Engineer, Frontend (March 2023 - January 2025)
 
-## Blog:
+- Built and shipped features for the Openbank Mexico programme, from initial development through production launch.
+- Maintained and evolved the live application after launch.
+- Automated Jest tests for releases and applied DDD or traditional architecture as the project required.
 
-Explore my thoughts and stay informed about all the latest programming news on my blog [ttcode.dev](https://ttcode.dev).
+#### Secmotic · Software Engineer, Full Stack (March 2021 - March 2023)
 
-## Contact & Support:
+- Developed frontend and backend features for FIWOO, an IoT platform for municipal services.
+- Built interfaces with React, JavaScript, and TypeScript, supported by Jest, React Testing Library, and Storybook.
+- Worked with Node.js, TypeScript, Express, MongoDB, Swagger, Docker, GitLab CI/CD, and Apache NiFi.
+
+## Independent Product
+
+#### Opositandos · Founder & Full-Stack Developer
+
+I built an independent learning platform for people preparing for Local Police examinations in Andalusia and continue to lead its product development.
+
+- Built the web application with Next.js, React, and TypeScript, the backend with NestJS, and native iOS and Android apps with React Native.
+- Integrated account management with Clerk and subscriptions and payments with Stripe, using Supabase and PostgreSQL for data.
+- The platform includes official exams and mock tests, psychometric exercises, practical cases, study analytics, an AI-powered exam generator, learning materials, classes, and exam announcements.
+- Configure deployments with Docker, Linux, and Nginx, and contribute to product and business decisions.
+
+## Now
+
+- Preparing for the AWS Certified AI Practitioner (AIF-C01) certification.
+- Building knowledge in AI applications, agent workflows, and cloud fundamentals.
+- Exploring Claude Code, Codex, and OpenCode to support product development and automation.
+
+## Blog
+
+Explore my writing on [ttcode.dev](https://ttcode.dev).
+
+## Contact & Support
 
 [![Email](https://img.shields.io/badge/josemacruz9726@gmail.com-my_personal_email_(fast_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:josemacruz9726@gmail.com)
 </br>
